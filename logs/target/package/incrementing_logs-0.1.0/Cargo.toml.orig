@@ -1,0 +1,17 @@
+[package]
+name = "incrementing_logs"
+version = "0.1.0"
+authors = ["Akash Basu"]
+edition = "2021"
+description = "A small library containing log functions that I've written(Note: The implementation for these functions are simple, but not that efficient)."
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+
+[profile.dev]
+opt-level = 1
+
+[profile.release]
+opt-level = 3

@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"incrementing_logs":{"doc":"","t":[17,17,17,17,17,5,5,5,5,5,5],"n":["ALPHA","E","FUNDEFINED","MAX","UNDEFINED","expo","flog","flogf","ilog","ln","lnf"],"q":["incrementing_logs","","","","","","","","","",""],"d":["learning rate used in ln(), flog(), and flogf()","eulers constant for ln()","value returned for flog() and flogf() if the passed in …","max used for the minimum value in ilog()","value returned if the passed in arguments are exceptions","","What it does","What it does","What it does","What it does","What it does"],"i":[0,0,0,0,0,0,0,0,0,0,0],"f":[null,null,null,null,null,[[["i64",0],["i64",0]],["i64",0]],[[["i64",0],["i64",0]],["f64",0]],[[["f64",0],["f64",0]],["f64",0]],[[["i64",0],["i64",0]],["i64",0]],[[["i64",0]],["f64",0]],[[["f64",0]],["f64",0]]],"p":[]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
